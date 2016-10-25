@@ -1,0 +1,19 @@
+{
+  "name": "monaca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiinieMe/monaca.git"
+  },
+  "author": "Jenny_nguyen <jenny.nguyen@miiniejourney.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiinieMe/monaca/issues"
+  },
+  "homepage": "https://github.com/MiinieMe/monaca#readme"
+}
